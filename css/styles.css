@@ -24,7 +24,8 @@ body {
 }
 
 .bold {
-  font-family: "Arial Black";
+  font-family: "Arial Black", Arial;
+  font-weight: 900;
 }
 
 #top {
